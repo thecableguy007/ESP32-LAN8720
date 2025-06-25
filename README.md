@@ -1,4 +1,4 @@
-# ESP32-LAN8720
+# ESP32 with a LAN8720 or JL1101
 Connect a LAN8720 ethernet board to a ESP32
 
 I’ve been trying to connect a LAN8720 ethernet board on a ESP32 Dev module and everywhere I look, I just can’t seem to get all the info to get it to work first shot!
@@ -8,5 +8,5 @@ There’s the physical plugging of them together, using the onboard 50 MHz oscil
 Here’s what I found to be the simplest solution that I managed to make work and it works every time I boot or reboot the ESP32.
 
 Take a look at the PDF file for more info.
-
+I also have the info for the settings to also make the JL1101 ethernet that's on the DTWONDER boards work.
 I hope this will help someone else!
