@@ -7,6 +7,6 @@ There’s the physical plugging of them together, using the onboard 50 MHz oscil
 
 Here’s what I found to be the simplest solution that I managed to make work and it works every time I boot or reboot the ESP32.
 
-Take a look at my Word document for more info.
+Take a look at the PDF file for more info.
 
 I hope this will help someone else!
